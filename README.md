@@ -1,4 +1,4 @@
-<h1>Projeto de Inovação Vira Papel</h1>
+<h1>Projeto de Inovação - Vira Papel</h1>
 
 <img src="https://i.imgur.com/JOixRyI.png" alt="done">
 
